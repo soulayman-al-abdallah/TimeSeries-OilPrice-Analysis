@@ -11,7 +11,6 @@ Oil Price Time series data analysis and modeling using ARIMA, Prophet and LSTM.
 - [Contact information](https://github.com/soulayman-al-abdallah/TimeSeries-OilPrice-Analysis#contact-information)
 
 
-
 -----
 ## Dataset
 
@@ -89,6 +88,7 @@ Data split percentage: 80% for training and 20% for testing
 <img width="458" height="300" alt="Screenshot 2023-02-03 at 7 02 22 PM" src="https://user-images.githubusercontent.com/75330691/216663266-5a84a390-002d-457f-a706-a1907c2b49ce.png">
 
 Predictions vs True values:
+
 <img width="1173" height="300" alt="Screenshot 2023-02-03 at 6 10 40 PM" src="https://user-images.githubusercontent.com/75330691/216663350-9f8a589d-365f-445a-b18f-1468373faeab.png">
 
 
@@ -98,7 +98,7 @@ Predictions vs True values:
 You can run the app by clicking on the colab notebooks, while replacing the "github" domain with "githubtocolab". 
 
 
-## Contact information and Disclaimer
+## Contact information
 
 For any further information about this repository's work, do not hesitate to reach me through LinkedIn:
 
