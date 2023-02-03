@@ -17,8 +17,6 @@ Oil Price Time series data analysis and modeling using ARIMA, Prophet and LSTM.
 You can run the app by clicking on the colab notebooks, while replacing the "github" domain with "githubtocolab", if it takes long time to load. 
 
 
-
------
 ## Dataset
 
 Used Data of oil prices from [here](https://github.com/soulayman-al-abdallah/public-repo.git)
