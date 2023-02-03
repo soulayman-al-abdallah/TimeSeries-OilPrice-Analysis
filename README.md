@@ -1,14 +1,21 @@
 # TimeSeries-OilPrice-Analysis
 Oil Price Time series data analysis and modeling using ARIMA, Prophet and LSTM.
 
-
+- [Running the app](https://github.com/soulayman-al-abdallah/TimeSeries-OilPrice-Analysis#running-the-app)
 - [Dataset](https://github.com/soulayman-al-abdallah/TimeSeries-OilPrice-Analysis#dataset)
 - [Model Training](https://github.com/soulayman-al-abdallah/TimeSeries-OilPrice-Analysis#training)
 - [ARIMA](https://github.com/soulayman-al-abdallah/TimeSeries-OilPrice-Analysis#arima)
 - [PROPHET](https://github.com/soulayman-al-abdallah/TimeSeries-OilPrice-Analysis#prophet)
 - [LSTM](https://github.com/soulayman-al-abdallah/TimeSeries-OilPrice-Analysis#lstm)
-- [Running the app](https://github.com/soulayman-al-abdallah/TimeSeries-OilPrice-Analysis#running-the-app)
 - [Contact information](https://github.com/soulayman-al-abdallah/TimeSeries-OilPrice-Analysis#contact-information)
+
+
+
+
+## Running the app
+
+You can run the app by clicking on the colab notebooks, while replacing the "github" domain with "githubtocolab", if it takes long time to load. 
+
 
 
 -----
@@ -93,9 +100,6 @@ Predictions vs True values:
 
 
 
-## Running the app
-
-You can run the app by clicking on the colab notebooks, while replacing the "github" domain with "githubtocolab". 
 
 
 ## Contact information
